@@ -1,8 +1,9 @@
 import requests
 import csv
+import os
 from pathlib import Path
 
-API_KEY = "44fc96a4faa9ae5afd12158aaee1f49b"
+API_KEY = os.getenv("OPENWEATHER_API_KEY")
 CSV_FILE = Path("city_weather_data.csv")
 
 def city_name_input():
