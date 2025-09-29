@@ -24,3 +24,6 @@ A Python program that retrieves live weather data for any city using **OpenWeath
 4. Enter a city name when prompted
 5. Weather info will be displayed and data will be saved to CSV
 6. A summary of all recorded cities and their temperatures will be shown
+
+## Screencast Overview
+https://www.loom.com/share/dc84946cff144f8baf2e4affc73e3e87
